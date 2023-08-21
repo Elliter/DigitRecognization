@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:17:1-31:12
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-rc0] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\tensorflow-android-1.2.0-rc0.aar\4f1985b83521f3aefb25432ecef12c9f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:29:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-rc0] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\tensorflow-android-1.2.0-rc0.aar\4f1985b83521f3aefb25432ecef12c9f\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.2.0-rc0] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\tensorflow-android-1.2.0-rc0.aar\4f1985b83521f3aefb25432ecef12c9f\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:11:9-40
+activity#mariannelinhares.mnistandroid.MainActivity
+ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:12:48-84
+	android:name
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\088cd75f2f62e45ef3960c59528dde40\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7dac81666c68b8e025731246f05ba50c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a7cfb407cc603e09e4b8e7c3d29df13f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b63f65545ef39741064fd8913d2523c5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\917f6e491ae86002526fa17a2cd5988f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\9247edb2fbcd54e6a02a9bdcaa6c4d8d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a476469aca24b69fee0d791df7b8bee5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\d4e4f9686848058986b2bbfc0f0c1538\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Android1\build-tools\28.0.1\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\f5949f3205054a3f1195d9323899111b\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\A_Guide_to_Running_Tensorflow_Models_on_Android-master\mnistandroid\app\src\main\AndroidManifest.xml:2:1-21:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
